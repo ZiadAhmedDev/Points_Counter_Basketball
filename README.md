@@ -1,6 +1,6 @@
-# quiz_app
+# Points_Counter_Basketball
 
-A new Flutter project.
+My First Micro-Project in flutter
 
 ## Getting Started
 
